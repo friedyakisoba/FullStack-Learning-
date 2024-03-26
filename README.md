@@ -1,2 +1,3 @@
 # FullStack-Learning-
-learning for full stack
+Home to all my fullstack projects and learning
+
